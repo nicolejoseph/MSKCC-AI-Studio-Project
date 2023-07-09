@@ -1,5 +1,5 @@
 # MSKCC Deep Learning Project
-This project was part of the Breakthrough Tech Program, where I worked on a team of 4 students with a company advisor from Memorial Sloan Kettering Cancer Center 
+This project was part of the BreakThrough Tech Program, where I worked on a team of 4 students with a company advisor from Memorial Sloan Kettering Cancer Center 
 (MSKCC) to develop a deep learning solution for automatic object detection in cancer images. We leveraged Python libraries including NumPy, OpenCV, and Pillow for image 
 processing and cleaning. We conducted a literature review and coded a U-Net model using Tensorflow. I fine tuned the model to improve accuracy from 20% to 75%. The final project was 
 presented to the company advisor and industry professionals from MSKCC.
