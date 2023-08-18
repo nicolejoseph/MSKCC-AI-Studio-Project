@@ -5,6 +5,6 @@ processing and cleaning. We conducted a literature review and coded a U-Net mode
 presented to the company advisor and industry professionals from MSKCC.
 
 
-The final project presentation can be viewed [here](https://www.youtube.com/watch?v=Bm5VsPZ8yO0) and accessed [here](https://docs.google.com/presentation/d/1sRaECz5hyIair_fZnkAMISOtl74ZvKI2N1paj1y6tg8/edit?usp=sharing)!
+The final project presentation can be viewed [on YouTube](https://www.youtube.com/watch?v=Bm5VsPZ8yO0) and accessed [here](https://docs.google.com/presentation/d/1sRaECz5hyIair_fZnkAMISOtl74ZvKI2N1paj1y6tg8/edit?usp=sharing)!
 
 ![Screenshot 2023-06-30 192925](https://github.com/nicolejoseph/AI-Studio-Project/assets/55464125/0610d13c-ab9e-456f-987c-134f9d2b85e1)
